@@ -1,5 +1,5 @@
 # HackerHub
-HackerHub is a simple python that is used to
+HackerHub is a simple python tool that is used to
 * Save a copy pf your HackerRank solutions at your PC
 * Upload your HackerRank solutions to your GitHub account
 
