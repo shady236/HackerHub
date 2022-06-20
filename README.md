@@ -3,7 +3,7 @@ HackerHub is a simple python that is used to
 * Save a copy pf your HackerRank solutions at your PC
 * Upload your HackerRank solutions to your GitHub account
 
-\
+
 # System Requirements 
 * python 3 (https://www.python.org/downloads/) 
 * beautifulsoup (type "pip install beautifulsoup4" in CMD)
